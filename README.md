@@ -12,6 +12,7 @@ python Mixer *formula* *desired_yield* *depth*
 
 ## Example output
 
+```
 python Mixer SourdoughWholemeal 1200 1
 
 Formula Sourdough Wholemeal: 1200.00 [221.53%]
@@ -23,7 +24,9 @@ Formula Sourdough Preferment: 216.67 [40%]
 Water: 417.10 [77%]
 Salt: 13.70 [2.53%]
 Instant Yeast: 10.83 [2%]
+```
 
+```
 python Mixer SourdoughWhite 1200 1
 
 Formula Sourdough White: 1200.00 [214.83%]
@@ -34,3 +37,4 @@ Formula Sourdough Preferment: 223.43 [40%]
 		Water: 48.57 [50%]
 Water: 403.85 [72.3%]
 Salt: 14.13 [2.53%]
+```
